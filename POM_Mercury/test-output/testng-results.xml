@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32388" started-at="2020-09-30T18:17:00Z" finished-at="2020-09-30T18:17:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32388" started-at="2020-09-30T18:17:00Z" finished-at="2020-09-30T18:17:32Z">
+      <class name="com.mercury.qa.Test.LoginPageMercuryTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="setUp" is-config="true" duration-ms="10412" started-at="2020-09-30T18:17:00Z" finished-at="2020-09-30T18:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPageTitleTest()[pri:1, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="validateLoginPageTitleTest" duration-ms="24" started-at="2020-09-30T18:17:10Z" finished-at="2020-09-30T18:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="tearDown" is-config="true" duration-ms="707" started-at="2020-09-30T18:17:10Z" finished-at="2020-09-30T18:17:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="setUp" is-config="true" duration-ms="8409" started-at="2020-09-30T18:17:11Z" finished-at="2020-09-30T18:17:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateMercuryLogotest()[pri:2, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="validateMercuryLogotest" duration-ms="1408" started-at="2020-09-30T18:17:19Z" finished-at="2020-09-30T18:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMercuryLogotest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="tearDown" is-config="true" duration-ms="806" started-at="2020-09-30T18:17:21Z" finished-at="2020-09-30T18:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="setUp" is-config="true" duration-ms="8138" started-at="2020-09-30T18:17:22Z" finished-at="2020-09-30T18:17:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginTest()[pri:3, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="validateLoginTest" duration-ms="1303" started-at="2020-09-30T18:17:30Z" finished-at="2020-09-30T18:17:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mercury.qa.Test.LoginPageMercuryTest@4b9e13df]" name="tearDown" is-config="true" duration-ms="1149" started-at="2020-09-30T18:17:31Z" finished-at="2020-09-30T18:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mercury.qa.Test.LoginPageMercuryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
